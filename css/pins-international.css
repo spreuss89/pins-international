@@ -1,0 +1,83 @@
+.wrapper-text {
+    background-color: rgba(1, 169, 131, 0.5);
+}
+
+
+.logo-lead-in {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+.btn-xl .badge {
+  color: #f6a600;
+  background-color: white;
+}
+.navbar-custom {
+  background-color: rgba(1, 169, 131, 0.5);
+  border-color: transparent;
+}
+.navbar-custom .navbar-brand {
+  color: #f6a600;
+    line-height: 1;
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus {
+  color: #f6a600;
+  outline: none;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+  border-radius: 0;
+  color: white;
+  background-color: #f6a600;
+}
+
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus {
+  color: white;
+  background-color: #f6a600;
+}
+
+.btn-xl {
+  color: white;
+  background-color: #f6a600;
+  border-color: #f6a600;
+}
+
+.text-primary, a {
+    color: #f6a600;
+}
+
+.btn-primary {
+    background-color: #f6a600;
+    border-color: #f6a600;
+}
+
+section h3.section-subheading {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.timeline > li .timeline-image {
+  background-color: #f6a600;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background: rgba(246, 166, 0, 0.9);
+}
+
+section#contact {
+  background-color: #01a983;
+}
+
+section#contact .text-danger {
+    color: #f6a600;
+}
+
+@media (min-width: 768px) {
+  .navbar-custom.affix {
+    background-color: #01a983;
+    padding: 10px 0;
+  }
