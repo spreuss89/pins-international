@@ -76,6 +76,13 @@ section#contact .text-danger {
     color: #f6a600;
 }
 
+input::-webkit-input-placeholder {
+color: #aaa !important;
+}
+textarea::-webkit-input-placeholder {
+color: #aaa !important;
+}
+
 @media (min-width: 768px) {
   .navbar-custom.affix {
     background-color: #01a983;
